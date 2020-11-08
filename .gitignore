@@ -1,0 +1,21 @@
+# Project exclude paths
+/.gradle/
+/BarcodeCaptureRejectSample/build/
+/BarcodeCaptureRejectSample/build/intermediates/javac/debug/classes/
+/BarcodeCaptureSettingsSample/build/
+/BarcodeCaptureSettingsSample/build/intermediates/javac/debug/classes/
+/BarcodeCaptureSimpleSample/build/
+/BarcodeCaptureSimpleSample/build/intermediates/javac/debug/classes/
+/BarcodeCaptureViewsSample/build/
+/BarcodeCaptureViewsSample/build/intermediates/javac/debug/classes/
+/build/
+/InventoryAuditSample/build/
+/InventoryAuditSample/build/intermediates/javac/debug/classes/
+/MatrixScanBubblesSample/build/
+/MatrixScanBubblesSample/build/intermediates/javac/debug/classes/
+/MatrixScanRejectSample/build/
+/MatrixScanRejectSample/build/intermediates/javac/debug/classes/
+/MatrixScanSimpleSample/build/
+/MatrixScanSimpleSample/build/intermediates/javac/debug/classes/
+/SearchAndFindSample/build/
+/SearchAndFindSample/build/intermediates/javac/debug/classes/

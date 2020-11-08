@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/samples.iml" filepath="$PROJECT_DIR$/.idea/modules/samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BarcodeCaptureRejectSample/samples.BarcodeCaptureRejectSample.iml" filepath="$PROJECT_DIR$/.idea/modules/BarcodeCaptureRejectSample/samples.BarcodeCaptureRejectSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BarcodeCaptureSettingsSample/samples.BarcodeCaptureSettingsSample.iml" filepath="$PROJECT_DIR$/.idea/modules/BarcodeCaptureSettingsSample/samples.BarcodeCaptureSettingsSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BarcodeCaptureSimpleSample/samples.BarcodeCaptureSimpleSample.iml" filepath="$PROJECT_DIR$/.idea/modules/BarcodeCaptureSimpleSample/samples.BarcodeCaptureSimpleSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BarcodeCaptureViewsSample/samples.BarcodeCaptureViewsSample.iml" filepath="$PROJECT_DIR$/.idea/modules/BarcodeCaptureViewsSample/samples.BarcodeCaptureViewsSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InventoryAuditSample/samples.InventoryAuditSample.iml" filepath="$PROJECT_DIR$/.idea/modules/InventoryAuditSample/samples.InventoryAuditSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MatrixScanBubblesSample/samples.MatrixScanBubblesSample.iml" filepath="$PROJECT_DIR$/.idea/modules/MatrixScanBubblesSample/samples.MatrixScanBubblesSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MatrixScanRejectSample/samples.MatrixScanRejectSample.iml" filepath="$PROJECT_DIR$/.idea/modules/MatrixScanRejectSample/samples.MatrixScanRejectSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MatrixScanSimpleSample/samples.MatrixScanSimpleSample.iml" filepath="$PROJECT_DIR$/.idea/modules/MatrixScanSimpleSample/samples.MatrixScanSimpleSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SearchAndFindSample/samples.SearchAndFindSample.iml" filepath="$PROJECT_DIR$/.idea/modules/SearchAndFindSample/samples.SearchAndFindSample.iml" />
+    </modules>
+  </component>
+</project>
